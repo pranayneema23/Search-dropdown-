@@ -1,0 +1,40 @@
+﻿body
+{
+    margin:10px 0px;
+}
+.panel-group .panel
+{
+    overflow: visible;
+}
+input, textarea
+{
+    color: #000;
+}
+
+/* Place Holder Fix for IE9 and Earlier */
+.placeholder
+{
+    color: #aaa;
+}
+div.chk-user-role-groups
+{
+    margin-top:5px;
+}
+div.chk-user-role-groups div.details
+{
+    border-top: 1px solid #bce8f1;
+    border-right: 1px solid #bce8f1;
+    border-bottom: 1px solid #bce8f1;
+    background-color: rgba(235,245,245,1);
+    border-radius:0px 4px 4px 0px;
+    padding-left: 8px;
+}
+.requiredfield
+{
+}
+
+.top-buffer { margin-top:10px; }
+
+.formwidth-buffer { width: 850px;}
+
+.bottom-buffer {margin-bottom: 0px; }
